@@ -1,8 +1,6 @@
-# Hi, I'm Huey Nguyen
+# Huey Nguyen
 
-Computer Engineering student at **San Jose State University** (B.S., projected Dec 2027), based in San Jose, CA. I like hardware best: building things and watching them come to life. I can work on the software side too.
-
-I'm looking for a **Summer 2027 internship** with a return offer. Long term, I want to work on the chips in AI cards and servers.
+Computer Engineering student at **San Jose State University** (B.S., projected Dec 2027), based in San Jose, CA.
 
 ## Education
 

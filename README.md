@@ -21,6 +21,8 @@ Computer Engineering student at **San Jose State University** (B.S., projected D
 - **[Arduino Solar Tracker](https://github.com/HU3YN/Arduino-Solar-Tracker)**: a dual-axis tracker built by a six-person class team (De Anza, Fall 2025). It follows a light source with 4 light sensors and 2 servos. I wired the circuit, printed and modified the base, and worked on the Arduino code with two teammates.
 - **[GameStop Retail Interface](https://github.com/HU3YN/GameStop)**: a Java console store app built by a six-person team (Mar 2025). It uses binary search trees, a hash table, a heap and linked lists. I wrote the Employee class and helped plan the structure.
 - **[CMPE 125 labs](https://github.com/HU3YN/cmpe125-labs)**: Verilog on a Basys3 FPGA board. Includes a 4-bit carry-lookahead adder checked against all 512 input combinations.
+- **[CMPE 126 labs](https://github.com/HU3YN/cmpe126-labs)**: C++ classes, templates, linked lists, recursion, queues and deques, with AI use stated for each lab.
+- **[CMPE 102 survey program](https://github.com/HU3YN/cmpe102-asm-survey)**: C++ and x86 assembly (MASM, Irvine32) working together through `extern "C"`.
 
 ## Work
 

@@ -13,7 +13,7 @@ Computer Engineering student at **San Jose State University** (B.S., projected D
 |---|---|
 | Strong | x86 assembly (MASM, Irvine32), C++, Java, Linux |
 | Working | Verilog, Vivado and the Basys3 FPGA board, Python, Git, SQLite, Docker, LTspice, GNU Octave |
-| Exposure | C, oscilloscope and logic analyzer |
+| Exposure | Oscilloscope and Logic Analyzer |
 
 ## Projects
 
